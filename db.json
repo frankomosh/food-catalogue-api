@@ -1,0 +1,22 @@
+{
+  "food": [
+    {
+      "id": 2,
+      "first_name": "David",
+      "last_name": "Nyagaka",
+      "email": "davidnyagaka@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "frankline",
+      "last_name": "omondi",
+      "email": "franklineomondi@gmail.com" 
+    },
+    { 
+      "first_name": "douglas",
+      "last_name": "costa",
+      "email": "douglascosta@gmail.com",
+      "id": 4
+    }
+  ]
+}

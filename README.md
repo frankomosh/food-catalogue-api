@@ -1,1 +1,1 @@
-# food-catalogue-api
+# food-api
